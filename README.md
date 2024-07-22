@@ -12,7 +12,7 @@ factorial(5) returns 120.
 
 Code:
 --------------------
-'''
+```
  public class Factorial{
 	void fact(double a){
 		double n=a;
@@ -29,7 +29,7 @@ class main{
 		ref_factorial.fact(9.4);
 	}
 }
-'''
+```
 
 
 Author:
