@@ -12,8 +12,8 @@ factorial(5) returns 120.
 
 Code:
 --------------------
-<div> 
- <p> public class Factorial{
+'''
+ public class Factorial{
 	void fact(double a){
 		double n=a;
 		double fact=1;
@@ -28,8 +28,8 @@ class main{
 		Factorial ref_factorial=new Factorial();
 		ref_factorial.fact(9.4);
 	}
-}</p>
-</div>
+}
+'''
 
 
 Author:
